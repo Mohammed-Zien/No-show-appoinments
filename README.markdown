@@ -50,7 +50,7 @@ This project analyzes a dataset of 110,527 medical appointments to identify patt
 ## Setup
 1. **Clone the Repository**:
    ```bash
-   git clone [your-repo-link]
+   git clone https://github.com/Mohammed-Zien/No-show-appoinments
    ```
 2. **Install Dependencies**:
    ```bash
